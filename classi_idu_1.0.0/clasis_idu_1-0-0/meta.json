@@ -1,0 +1,11 @@
+{
+    "name": "classi_idu",
+    "lang": "en",
+    "version": "1.0.0",
+    "spacy_version": ">=1.7.0,<3.0.6",
+    "description": "Classi AI Model",
+    "author": "Classi AI",
+    "email": "contact@classi.ai",
+    "url": "https://classi.ai",
+    "license": "CC BY-SA 3.0"
+}

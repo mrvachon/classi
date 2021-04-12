@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: classi_idu
+Version: 1.0.0
+Summary: Small English model for spaCy. Includes vocabulary, syntax, entities and word vectors (GloVe).
+Home-page: https://classi.ai
+Author: Classi AI
+Author-email: contact@classi.ai
+License: CC BY-SA 3.0
+Description: UNKNOWN
+Platform: UNKNOWN
